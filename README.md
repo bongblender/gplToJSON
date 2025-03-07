@@ -10,7 +10,7 @@ This Python script converts `.gpl` (GIMP Palette) files into JSON format. It ext
 - Skips invalid or comment lines in `.gpl` files.
 
 ## Installation
-No additional dependencies are required. This script runs with standard Python libraries.
+No additional dependencies are required. This script runs with standard Python libraries. Just create an empty folder and put the script and your GPL file in that folder. run the script.
 
 ## Usage
 1. Place your `.gpl` files in the script's directory.
